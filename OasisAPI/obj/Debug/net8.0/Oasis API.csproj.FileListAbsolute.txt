@@ -1,0 +1,1664 @@
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\obj\Debug\net8.0\Oasis API.csproj.AssemblyReference.cache
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\obj\Debug\net8.0\Oasis API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\obj\Debug\net8.0\Oasis API.AssemblyInfoInputs.cache
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\obj\Debug\net8.0\Oasis API.AssemblyInfo.cs
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\obj\Debug\net8.0\Oasis API.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\obj\Debug\net8.0\Oasis API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\obj\Debug\net8.0\Oasis API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\bin\Debug\net8.0\appsettings.json
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\bin\Debug\net8.0\Oasis API.exe
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\bin\Debug\net8.0\Oasis API.deps.json
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\bin\Debug\net8.0\Oasis API.runtimeconfig.json
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\bin\Debug\net8.0\Oasis API.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\bin\Debug\net8.0\Oasis API.pdb
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\obj\Debug\net8.0\staticwebassets\msbuild.Oasis API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\obj\Debug\net8.0\staticwebassets\msbuild.build.Oasis API.props
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Oasis API.props
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Oasis API.props
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\obj\Debug\net8.0\scopedcss\bundle\Oasis API.styles.css
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\obj\Debug\net8.0\Oasis API.csproj.Up2Date
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\obj\Debug\net8.0\Oasis API.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\obj\Debug\net8.0\refint\Oasis API.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\obj\Debug\net8.0\Oasis API.pdb
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\obj\Debug\net8.0\Oasis API.genruntimeconfig.cache
+C:\Users\Lucas\OneDrive\Área de Trabalho\Oasis API\obj\Debug\net8.0\ref\Oasis API.dll
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\obj\Debug\net8.0\Oasis API.csproj.AssemblyReference.cache
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\obj\Debug\net8.0\Oasis API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\obj\Debug\net8.0\Oasis API.AssemblyInfoInputs.cache
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\obj\Debug\net8.0\Oasis API.AssemblyInfo.cs
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\obj\Debug\net8.0\Oasis API.csproj.CoreCompileInputs.cache
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\obj\Debug\net8.0\Oasis API.MvcApplicationPartsAssemblyInfo.cs
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\obj\Debug\net8.0\Oasis API.MvcApplicationPartsAssemblyInfo.cache
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\obj\Debug\net8.0\Oasis API.dll
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\obj\Debug\net8.0\refint\Oasis API.dll
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\obj\Debug\net8.0\Oasis API.pdb
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\bin\Debug\net8.0\appsettings.Development.json
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\bin\Debug\net8.0\appsettings.json
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\bin\Debug\net8.0\Oasis API.exe
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\bin\Debug\net8.0\Oasis API.deps.json
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\bin\Debug\net8.0\Oasis API.runtimeconfig.json
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\bin\Debug\net8.0\Oasis API.dll
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\bin\Debug\net8.0\Oasis API.pdb
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\bin\Debug\net8.0\Azure.Core.dll
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\bin\Debug\net8.0\Azure.Identity.dll
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\bin\Debug\net8.0\Humanizer.dll
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\bin\Debug\net8.0\System.CodeDom.dll
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\bin\Debug\net8.0\System.Text.Json.dll
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\obj\Debug\net8.0\staticwebassets.build.json
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\obj\Debug\net8.0\staticwebassets.development.json
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\obj\Debug\net8.0\staticwebassets\msbuild.Oasis API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\obj\Debug\net8.0\staticwebassets\msbuild.build.Oasis API.props
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Oasis API.props
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Oasis API.props
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\obj\Debug\net8.0\scopedcss\bundle\Oasis API.styles.css
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\obj\Debug\net8.0\Oasis API.csproj.CopyComplete
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\obj\Debug\net8.0\Oasis API.genruntimeconfig.cache
+D:\Work\Etec\2024-2_PAMII\TCCs\Oasis\OasisApi\obj\Debug\net8.0\ref\Oasis API.dll
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\bin\Debug\net8.0\appsettings.Development.json
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\bin\Debug\net8.0\appsettings.json
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\bin\Debug\net8.0\Oasis API.exe
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\bin\Debug\net8.0\Oasis API.deps.json
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\bin\Debug\net8.0\Oasis API.runtimeconfig.json
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\bin\Debug\net8.0\Oasis API.dll
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\bin\Debug\net8.0\Oasis API.pdb
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\bin\Debug\net8.0\Azure.Core.dll
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\bin\Debug\net8.0\Azure.Identity.dll
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\bin\Debug\net8.0\Humanizer.dll
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\bin\Debug\net8.0\System.CodeDom.dll
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\bin\Debug\net8.0\System.Memory.Data.dll
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\obj\Debug\net8.0\Oasis API.csproj.AssemblyReference.cache
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\obj\Debug\net8.0\Oasis API.GeneratedMSBuildEditorConfig.editorconfig
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\obj\Debug\net8.0\Oasis API.AssemblyInfoInputs.cache
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\obj\Debug\net8.0\Oasis API.AssemblyInfo.cs
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\obj\Debug\net8.0\Oasis API.csproj.CoreCompileInputs.cache
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\obj\Debug\net8.0\Oasis API.MvcApplicationPartsAssemblyInfo.cs
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\obj\Debug\net8.0\Oasis API.MvcApplicationPartsAssemblyInfo.cache
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\obj\Debug\net8.0\staticwebassets.build.json
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\obj\Debug\net8.0\staticwebassets.development.json
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\obj\Debug\net8.0\staticwebassets\msbuild.Oasis API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\obj\Debug\net8.0\staticwebassets\msbuild.build.Oasis API.props
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Oasis API.props
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Oasis API.props
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\obj\Debug\net8.0\staticwebassets.pack.json
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\obj\Debug\net8.0\scopedcss\bundle\Oasis API.styles.css
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\obj\Debug\net8.0\Oasis API.csproj.Up2Date
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\obj\Debug\net8.0\Oasis API.dll
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\obj\Debug\net8.0\refint\Oasis API.dll
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\obj\Debug\net8.0\Oasis API.pdb
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\obj\Debug\net8.0\Oasis API.genruntimeconfig.cache
+D:\PEDRO_3DS\TCC\OasisApimain\OasisApi\obj\Debug\net8.0\ref\Oasis API.dll
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\bin\Debug\net8.0\appsettings.Development.json
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\bin\Debug\net8.0\appsettings.json
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\bin\Debug\net8.0\Oasis API.exe
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\bin\Debug\net8.0\Oasis API.deps.json
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\bin\Debug\net8.0\Oasis API.runtimeconfig.json
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\bin\Debug\net8.0\Oasis API.dll
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\bin\Debug\net8.0\Oasis API.pdb
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\bin\Debug\net8.0\Azure.Core.dll
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\bin\Debug\net8.0\Azure.Identity.dll
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\bin\Debug\net8.0\Humanizer.dll
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\bin\Debug\net8.0\System.CodeDom.dll
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\bin\Debug\net8.0\System.Memory.Data.dll
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\obj\Debug\net8.0\Oasis API.csproj.AssemblyReference.cache
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\obj\Debug\net8.0\Oasis API.GeneratedMSBuildEditorConfig.editorconfig
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\obj\Debug\net8.0\Oasis API.AssemblyInfoInputs.cache
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\obj\Debug\net8.0\Oasis API.AssemblyInfo.cs
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\obj\Debug\net8.0\Oasis API.csproj.CoreCompileInputs.cache
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\obj\Debug\net8.0\Oasis API.MvcApplicationPartsAssemblyInfo.cs
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\obj\Debug\net8.0\Oasis API.MvcApplicationPartsAssemblyInfo.cache
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\obj\Debug\net8.0\staticwebassets.build.json
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\obj\Debug\net8.0\staticwebassets.development.json
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\obj\Debug\net8.0\staticwebassets\msbuild.Oasis API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\obj\Debug\net8.0\staticwebassets\msbuild.build.Oasis API.props
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Oasis API.props
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Oasis API.props
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\obj\Debug\net8.0\staticwebassets.pack.json
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\obj\Debug\net8.0\scopedcss\bundle\Oasis API.styles.css
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\obj\Debug\net8.0\Oasis API.csproj.Up2Date
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\obj\Debug\net8.0\Oasis API.dll
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\obj\Debug\net8.0\refint\Oasis API.dll
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\obj\Debug\net8.0\Oasis API.pdb
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\obj\Debug\net8.0\Oasis API.genruntimeconfig.cache
+D:\PEDRO_3DS\TCC\OasisApimain pedro\OasisApi\obj\Debug\net8.0\ref\Oasis API.dll
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\bin\Debug\net8.0\appsettings.json
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\bin\Debug\net8.0\Oasis API.exe
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\bin\Debug\net8.0\Oasis API.deps.json
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\bin\Debug\net8.0\Oasis API.runtimeconfig.json
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\bin\Debug\net8.0\Oasis API.dll
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\bin\Debug\net8.0\Oasis API.pdb
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\bin\Debug\net8.0\Humanizer.dll
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\obj\Debug\net8.0\Oasis API.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\obj\Debug\net8.0\Oasis API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\obj\Debug\net8.0\Oasis API.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\obj\Debug\net8.0\Oasis API.AssemblyInfo.cs
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\obj\Debug\net8.0\Oasis API.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\obj\Debug\net8.0\Oasis API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\obj\Debug\net8.0\Oasis API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\obj\Debug\net8.0\staticwebassets\msbuild.Oasis API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\obj\Debug\net8.0\staticwebassets\msbuild.build.Oasis API.props
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Oasis API.props
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Oasis API.props
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\obj\Debug\net8.0\scopedcss\bundle\Oasis API.styles.css
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\obj\Debug\net8.0\Oasis API.csproj.Up2Date
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\obj\Debug\net8.0\Oasis API.dll
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\obj\Debug\net8.0\refint\Oasis API.dll
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\obj\Debug\net8.0\Oasis API.pdb
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\obj\Debug\net8.0\Oasis API.genruntimeconfig.cache
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\obj\Debug\net8.0\ref\Oasis API.dll
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\obj\Debug\net8.0\Oasis API.RazorAssemblyInfo.cache
+C:\Users\user\Downloads\OasisApimain pedro (1)\OasisApimain pedro\OasisApi\obj\Debug\net8.0\Oasis API.RazorAssemblyInfo.cs
+D:\MatheusG 3DS\oasisapi\OasisApimain pedro\OasisApi\obj\Debug\net8.0\Oasis API.csproj.AssemblyReference.cache
+D:\MatheusG 3DS\oasisapi\OasisApimain pedro\OasisApi\obj\Debug\net8.0\Oasis API.GeneratedMSBuildEditorConfig.editorconfig
+D:\MatheusG 3DS\oasisapi\OasisApimain pedro\OasisApi\obj\Debug\net8.0\Oasis API.AssemblyInfoInputs.cache
+D:\MatheusG 3DS\oasisapi\OasisApimain pedro\OasisApi\obj\Debug\net8.0\Oasis API.AssemblyInfo.cs
+D:\MatheusG 3DS\oasisapi\OasisApimain pedro\OasisApi\obj\Debug\net8.0\Oasis API.csproj.CoreCompileInputs.cache
+D:\MatheusG 3DS\oasisapi\OasisApimain pedro\OasisApi\obj\Debug\net8.0\Oasis API.MvcApplicationPartsAssemblyInfo.cs
+D:\MatheusG 3DS\oasisapi\OasisApimain pedro\OasisApi\obj\Debug\net8.0\Oasis API.MvcApplicationPartsAssemblyInfo.cache
+D:\MatheusG 3DS\oasisapi\OasisApimain pedro\OasisApi\obj\Debug\net8.0\Oasis API.RazorAssemblyInfo.cache
+D:\MatheusG 3DS\oasisapi\OasisApimain pedro\OasisApi\obj\Debug\net8.0\Oasis API.RazorAssemblyInfo.cs
+D:\MatheusG 3DS\oasisapi\OasisApimain pedro\OasisApi\obj\Debug\net8.0\Oasis API.dll
+D:\MatheusG 3DS\oasisapi\OasisApimain pedro\OasisApi\obj\Debug\net8.0\refint\Oasis API.dll
+D:\MatheusG 3DS\oasisapi\OasisApimain pedro\OasisApi\obj\Debug\net8.0\Oasis API.pdb
+D:\MatheusG 3DS\oasisapi\OasisApi\obj\Debug\net8.0\Oasis API.csproj.AssemblyReference.cache
+D:\MatheusG 3DS\oasisapi\OasisApi\obj\Debug\net8.0\Oasis API.GeneratedMSBuildEditorConfig.editorconfig
+D:\MatheusG 3DS\oasisapi\OasisApi\obj\Debug\net8.0\Oasis API.AssemblyInfoInputs.cache
+D:\MatheusG 3DS\oasisapi\OasisApi\obj\Debug\net8.0\Oasis API.AssemblyInfo.cs
+D:\MatheusG 3DS\oasisapi\OasisApi\obj\Debug\net8.0\Oasis API.csproj.CoreCompileInputs.cache
+D:\MatheusG 3DS\oasisapi\OasisApi\obj\Debug\net8.0\Oasis API.MvcApplicationPartsAssemblyInfo.cs
+D:\MatheusG 3DS\oasisapi\OasisApi\obj\Debug\net8.0\Oasis API.MvcApplicationPartsAssemblyInfo.cache
+D:\MatheusG 3DS\oasisapi\OasisApi\obj\Debug\net8.0\Oasis API.RazorAssemblyInfo.cache
+D:\MatheusG 3DS\oasisapi\OasisApi\obj\Debug\net8.0\Oasis API.RazorAssemblyInfo.cs
+D:\MatheusG 3DS\oasisapi\OasisApi\obj\Debug\net8.0\Oasis API.dll
+D:\MatheusG 3DS\oasisapi\OasisApi\obj\Debug\net8.0\refint\Oasis API.dll
+D:\MatheusG 3DS\oasisapi\OasisApi\obj\Debug\net8.0\Oasis API.pdb
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\appsettings.Development.json
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\appsettings.json
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\Oasis API.exe
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\Oasis API.deps.json
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\Oasis API.runtimeconfig.json
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\Oasis API.dll
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\Oasis API.pdb
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\Azure.Core.dll
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\Azure.Identity.dll
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\Humanizer.dll
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\System.CodeDom.dll
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\System.Memory.Data.dll
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\MatheusG 3DS\oasisapi\OasisApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\MatheusG 3DS\oasisapi\OasisApi\obj\Debug\net8.0\Oasis API.csproj.Up2Date
+D:\MatheusG 3DS\oasisapi\OasisApi\obj\Debug\net8.0\Oasis API.genruntimeconfig.cache
+D:\MatheusG 3DS\oasisapi\OasisApi\obj\Debug\net8.0\ref\Oasis API.dll
+D:\Pedro\1811\back\bin\Debug\net8.0\appsettings.Development.json
+D:\Pedro\1811\back\bin\Debug\net8.0\appsettings.json
+D:\Pedro\1811\back\bin\Debug\net8.0\Oasis API.exe
+D:\Pedro\1811\back\bin\Debug\net8.0\Oasis API.deps.json
+D:\Pedro\1811\back\bin\Debug\net8.0\Oasis API.runtimeconfig.json
+D:\Pedro\1811\back\bin\Debug\net8.0\Oasis API.dll
+D:\Pedro\1811\back\bin\Debug\net8.0\Oasis API.pdb
+D:\Pedro\1811\back\bin\Debug\net8.0\Azure.Core.dll
+D:\Pedro\1811\back\bin\Debug\net8.0\Azure.Identity.dll
+D:\Pedro\1811\back\bin\Debug\net8.0\Humanizer.dll
+D:\Pedro\1811\back\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Pedro\1811\back\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\Pedro\1811\back\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Pedro\1811\back\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Pedro\1811\back\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Pedro\1811\back\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Pedro\1811\back\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Pedro\1811\back\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Pedro\1811\back\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Pedro\1811\back\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Pedro\1811\back\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Pedro\1811\back\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Pedro\1811\back\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Pedro\1811\back\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Pedro\1811\back\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Pedro\1811\back\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Pedro\1811\back\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Pedro\1811\back\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Pedro\1811\back\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Pedro\1811\back\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Pedro\1811\back\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Pedro\1811\back\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Pedro\1811\back\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Pedro\1811\back\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Pedro\1811\back\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Pedro\1811\back\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Pedro\1811\back\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Pedro\1811\back\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Pedro\1811\back\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Pedro\1811\back\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Pedro\1811\back\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+D:\Pedro\1811\back\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Pedro\1811\back\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Pedro\1811\back\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Pedro\1811\back\bin\Debug\net8.0\System.CodeDom.dll
+D:\Pedro\1811\back\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Pedro\1811\back\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Pedro\1811\back\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Pedro\1811\back\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Pedro\1811\back\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Pedro\1811\back\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Pedro\1811\back\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Pedro\1811\back\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Pedro\1811\back\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Pedro\1811\back\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Pedro\1811\back\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Pedro\1811\back\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Pedro\1811\back\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Pedro\1811\back\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Pedro\1811\back\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Pedro\1811\back\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Pedro\1811\back\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Pedro\1811\back\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Pedro\1811\back\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Pedro\1811\back\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Pedro\1811\back\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Pedro\1811\back\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Pedro\1811\back\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Pedro\1811\back\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Pedro\1811\back\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Pedro\1811\back\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Pedro\1811\back\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Pedro\1811\back\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Pedro\1811\back\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Pedro\1811\back\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Pedro\1811\back\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Pedro\1811\back\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Pedro\1811\back\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Pedro\1811\back\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Pedro\1811\back\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Pedro\1811\back\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Pedro\1811\back\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Pedro\1811\back\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Pedro\1811\back\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Pedro\1811\back\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Pedro\1811\back\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Pedro\1811\back\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Pedro\1811\back\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Pedro\1811\back\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Pedro\1811\back\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Pedro\1811\back\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Pedro\1811\back\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Pedro\1811\back\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Pedro\1811\back\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Pedro\1811\back\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Pedro\1811\back\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Pedro\1811\back\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Pedro\1811\back\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Pedro\1811\back\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Pedro\1811\back\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Pedro\1811\back\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Pedro\1811\back\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Pedro\1811\back\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Pedro\1811\back\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Pedro\1811\back\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Pedro\1811\back\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Pedro\1811\back\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Pedro\1811\back\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Pedro\1811\back\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Pedro\1811\back\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Pedro\1811\back\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Pedro\1811\back\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Pedro\1811\back\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Pedro\1811\back\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Pedro\1811\back\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Pedro\1811\back\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Pedro\1811\back\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Pedro\1811\back\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Pedro\1811\back\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Pedro\1811\back\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Pedro\1811\back\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Pedro\1811\back\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Pedro\1811\back\obj\Debug\net8.0\Oasis API.csproj.AssemblyReference.cache
+D:\Pedro\1811\back\obj\Debug\net8.0\Oasis API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pedro\1811\back\obj\Debug\net8.0\Oasis API.AssemblyInfoInputs.cache
+D:\Pedro\1811\back\obj\Debug\net8.0\Oasis API.AssemblyInfo.cs
+D:\Pedro\1811\back\obj\Debug\net8.0\Oasis API.csproj.CoreCompileInputs.cache
+D:\Pedro\1811\back\obj\Debug\net8.0\Oasis API.MvcApplicationPartsAssemblyInfo.cs
+D:\Pedro\1811\back\obj\Debug\net8.0\Oasis API.MvcApplicationPartsAssemblyInfo.cache
+D:\Pedro\1811\back\obj\Debug\net8.0\Oasis API.RazorAssemblyInfo.cache
+D:\Pedro\1811\back\obj\Debug\net8.0\Oasis API.RazorAssemblyInfo.cs
+D:\Pedro\1811\back\obj\Debug\net8.0\Oasis API.sourcelink.json
+D:\Pedro\1811\back\obj\Debug\net8.0\Oasis API.csproj.Up2Date
+D:\Pedro\1811\back\obj\Debug\net8.0\Oasis API.dll
+D:\Pedro\1811\back\obj\Debug\net8.0\refint\Oasis API.dll
+D:\Pedro\1811\back\obj\Debug\net8.0\Oasis API.pdb
+D:\Pedro\1811\back\obj\Debug\net8.0\Oasis API.genruntimeconfig.cache
+D:\Pedro\1811\back\obj\Debug\net8.0\ref\Oasis API.dll
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\appsettings.Development.json
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\appsettings.json
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\Oasis API.exe
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\Oasis API.deps.json
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\Oasis API.runtimeconfig.json
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\Oasis API.dll
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\Oasis API.pdb
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\Azure.Core.dll
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\Azure.Identity.dll
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\Humanizer.dll
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\System.CodeDom.dll
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Pedro\1811\OasisAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Pedro\1811\OasisAPI\obj\Debug\net8.0\Oasis API.csproj.AssemblyReference.cache
+D:\Pedro\1811\OasisAPI\obj\Debug\net8.0\Oasis API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pedro\1811\OasisAPI\obj\Debug\net8.0\Oasis API.AssemblyInfoInputs.cache
+D:\Pedro\1811\OasisAPI\obj\Debug\net8.0\Oasis API.AssemblyInfo.cs
+D:\Pedro\1811\OasisAPI\obj\Debug\net8.0\Oasis API.csproj.CoreCompileInputs.cache
+D:\Pedro\1811\OasisAPI\obj\Debug\net8.0\Oasis API.MvcApplicationPartsAssemblyInfo.cs
+D:\Pedro\1811\OasisAPI\obj\Debug\net8.0\Oasis API.MvcApplicationPartsAssemblyInfo.cache
+D:\Pedro\1811\OasisAPI\obj\Debug\net8.0\Oasis API.RazorAssemblyInfo.cache
+D:\Pedro\1811\OasisAPI\obj\Debug\net8.0\Oasis API.RazorAssemblyInfo.cs
+D:\Pedro\1811\OasisAPI\obj\Debug\net8.0\Oasis API.sourcelink.json
+D:\Pedro\1811\OasisAPI\obj\Debug\net8.0\Oasis API.csproj.Up2Date
+D:\Pedro\1811\OasisAPI\obj\Debug\net8.0\Oasis API.dll
+D:\Pedro\1811\OasisAPI\obj\Debug\net8.0\refint\Oasis API.dll
+D:\Pedro\1811\OasisAPI\obj\Debug\net8.0\Oasis API.pdb
+D:\Pedro\1811\OasisAPI\obj\Debug\net8.0\Oasis API.genruntimeconfig.cache
+D:\Pedro\1811\OasisAPI\obj\Debug\net8.0\ref\Oasis API.dll
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\Oasis API.exe
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\Oasis API.deps.json
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\Oasis API.runtimeconfig.json
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\Oasis API.dll
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\Oasis API.pdb
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\Humanizer.dll
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Downloads\OasisAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\user\Downloads\OasisAPI\obj\Debug\net8.0\Oasis API.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\OasisAPI\obj\Debug\net8.0\Oasis API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\OasisAPI\obj\Debug\net8.0\Oasis API.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\OasisAPI\obj\Debug\net8.0\Oasis API.AssemblyInfo.cs
+C:\Users\user\Downloads\OasisAPI\obj\Debug\net8.0\Oasis API.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\OasisAPI\obj\Debug\net8.0\Oasis API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\Downloads\OasisAPI\obj\Debug\net8.0\Oasis API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Downloads\OasisAPI\obj\Debug\net8.0\Oasis API.RazorAssemblyInfo.cache
+C:\Users\user\Downloads\OasisAPI\obj\Debug\net8.0\Oasis API.RazorAssemblyInfo.cs
+C:\Users\user\Downloads\OasisAPI\obj\Debug\net8.0\Oasis API.csproj.Up2Date
+C:\Users\user\Downloads\OasisAPI\obj\Debug\net8.0\Oasis API.dll
+C:\Users\user\Downloads\OasisAPI\obj\Debug\net8.0\refint\Oasis API.dll
+C:\Users\user\Downloads\OasisAPI\obj\Debug\net8.0\Oasis API.pdb
+C:\Users\user\Downloads\OasisAPI\obj\Debug\net8.0\Oasis API.genruntimeconfig.cache
+C:\Users\user\Downloads\OasisAPI\obj\Debug\net8.0\ref\Oasis API.dll
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\Oasis API.exe
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\Oasis API.deps.json
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\Oasis API.runtimeconfig.json
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\Oasis API.dll
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\Oasis API.pdb
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\Humanizer.dll
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\2811\OasisAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\user\Desktop\2811\OasisAPI\obj\Debug\net8.0\Oasis API.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\2811\OasisAPI\obj\Debug\net8.0\Oasis API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\2811\OasisAPI\obj\Debug\net8.0\Oasis API.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\2811\OasisAPI\obj\Debug\net8.0\Oasis API.AssemblyInfo.cs
+C:\Users\user\Desktop\2811\OasisAPI\obj\Debug\net8.0\Oasis API.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\2811\OasisAPI\obj\Debug\net8.0\Oasis API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\Desktop\2811\OasisAPI\obj\Debug\net8.0\Oasis API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\2811\OasisAPI\obj\Debug\net8.0\Oasis API.RazorAssemblyInfo.cache
+C:\Users\user\Desktop\2811\OasisAPI\obj\Debug\net8.0\Oasis API.RazorAssemblyInfo.cs
+C:\Users\user\Desktop\2811\OasisAPI\obj\Debug\net8.0\Oasis API.csproj.Up2Date
+C:\Users\user\Desktop\2811\OasisAPI\obj\Debug\net8.0\Oasis API.dll
+C:\Users\user\Desktop\2811\OasisAPI\obj\Debug\net8.0\refint\Oasis API.dll
+C:\Users\user\Desktop\2811\OasisAPI\obj\Debug\net8.0\Oasis API.pdb
+C:\Users\user\Desktop\2811\OasisAPI\obj\Debug\net8.0\Oasis API.genruntimeconfig.cache
+C:\Users\user\Desktop\2811\OasisAPI\obj\Debug\net8.0\ref\Oasis API.dll
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\Oasis API.exe
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\Oasis API.deps.json
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\Oasis API.runtimeconfig.json
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\Oasis API.dll
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\Oasis API.pdb
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\Humanizer.dll
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\obj\Debug\net8.0\Oasis API.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\obj\Debug\net8.0\Oasis API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\obj\Debug\net8.0\Oasis API.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\obj\Debug\net8.0\Oasis API.AssemblyInfo.cs
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\obj\Debug\net8.0\Oasis API.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\obj\Debug\net8.0\Oasis API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\obj\Debug\net8.0\Oasis API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\obj\Debug\net8.0\Oasis API.RazorAssemblyInfo.cache
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\obj\Debug\net8.0\Oasis API.RazorAssemblyInfo.cs
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\obj\Debug\net8.0\Oasis API.csproj.Up2Date
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\obj\Debug\net8.0\Oasis API.dll
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\obj\Debug\net8.0\refint\Oasis API.dll
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\obj\Debug\net8.0\Oasis API.pdb
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\obj\Debug\net8.0\Oasis API.genruntimeconfig.cache
+C:\Users\user\Desktop\Oasis 100%\OasisAPI\obj\Debug\net8.0\ref\Oasis API.dll
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\Oasis API.exe
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\Oasis API.deps.json
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\Oasis API.runtimeconfig.json
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\Oasis API.dll
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\Oasis API.pdb
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\obj\Debug\net8.0\Oasis API.csproj.AssemblyReference.cache
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\obj\Debug\net8.0\Oasis API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\obj\Debug\net8.0\Oasis API.AssemblyInfoInputs.cache
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\obj\Debug\net8.0\Oasis API.AssemblyInfo.cs
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\obj\Debug\net8.0\Oasis API.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\obj\Debug\net8.0\Oasis API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\obj\Debug\net8.0\Oasis API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\obj\Debug\net8.0\Oasis API.RazorAssemblyInfo.cache
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\obj\Debug\net8.0\Oasis API.RazorAssemblyInfo.cs
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\obj\Debug\net8.0\Oasis API.csproj.Up2Date
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\obj\Debug\net8.0\Oasis API.dll
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\obj\Debug\net8.0\refint\Oasis API.dll
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\obj\Debug\net8.0\Oasis API.pdb
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\obj\Debug\net8.0\Oasis API.genruntimeconfig.cache
+C:\Users\Lucas\Downloads\Oasis 100%\OasisAPI\obj\Debug\net8.0\ref\Oasis API.dll

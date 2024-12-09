@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tela de Login</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header>
+
+   
+    <nav class="navigation">
+        <img class="logo" src="img/LOGO_certo-removebg-preview.png" alt="">
+
+        <a href="#home" class="nav-links">Home</a>
+        <a href="#who-am-i" class="nav-links">About</a>
+        <a href="#contact" class="nav-links">Contact</a>
+        <button class="btnLogin-popup" onclick="toggleModal()">Login</button>
+    </nav>
+    
+</header>
+
+<main>
+    <section id="home" class="first-section">
+        <div class="Sobre">
+            <h1>Olá! somos a <br> <strong>Oasis</strong></h1>
+            <p>Venha conhecer nosso <strong>Sistema</strong></p>
+            <button class="button" href="https://www.youtube.com">Cadastrar-se</button>
+        </div>
+        <div class="box-img-main">
+            <img class="img-profile" src="./img/Assistente Social.png" alt="">
+        </div>
+           
+        
+            
+    </section>
+
+<section class="second-section">
+        <div class="carousel-container">
+            <div class="carousel" id="carousel">
+                <img src="img/rotina.jpg" alt="">
+              <img src="img/img1.jpeg" alt="">
+              <img src="img/img2.jpeg" alt="">
+              <img src="img/img3.jpeg" alt="">
+              
+             
+            </div>
+      
+            <div class="carousel-controls">
+              <button id="prev">❮</button>
+              <button id="next">❯</button>
+            </div>
+      
+            <div class="carousel-indicators">
+              <button class="active" data-slide="0"></button>
+              <button data-slide="1"></button>
+              <button data-slide="2"></button>
+              <button data-slide="3"></button>
+            
+            </div>
+          </div>
+      
+        </section> 
+        <!-- usa o swiper macaco -->
+
+   
+
+    <section id="who-am-i" class="third-section">
+        <h2 class="title">Quem somos ?</h2>
+        <div>
+            <img class="img-who-am-i" src="img/LOGO_certo-removebg-preview.png" alt="imagem do matheus gomes">
+            <p>A <strong>Oasis</strong> nasceu da necessidade de criar um <strong>sistema inovador</strong> que apoie as <strong>assistentes sociais</strong> em sua missão de promover o <strong>bem-estar</strong> e a <strong>justiça social</strong>. Nosso objetivo é oferecer uma <strong>ferramenta</strong> que permita um trabalho <strong>mais seguro</strong> e <strong>ágil</strong>, facilitando o acesso a <strong>informações relevantes</strong> e a <strong>comunicação</strong> entre <strong>profissionais</strong> e <strong>usuários</strong>. Com uma <strong>interface intuitiva</strong> e <strong>recursos</strong> que atendem às demandas do dia a dia, o <strong>Oasis</strong> visa <strong>otimizar processos</strong>, permitindo que os <strong>assistentes sociais</strong> dediquem mais tempo ao que realmente importa: o <strong>cuidado</strong> e a <strong>atenção</strong> às <strong>pessoas</strong>. Estamos comprometidos em contribuir para um <strong>futuro</strong> onde a <strong>assistência social</strong> seja ainda mais <strong>eficaz</strong> e <strong>acessível</strong>.</p>
+        </div>
+    </section>
+
+    <footer id="contact" class="fourth-section">
+        <h2 class="title">Contato</h2> 
+         
+    <div>
+        <strong class="contatos"><p>GitHub</p></strong><a href="https://github.com/MatheusGomes444?tab=repositories" title="Github" target="_blank">
+            <img src="img/github.svg" width="30" height="32" fill="#fff" alt="">
+        </a>
+        <strong class="contatos"><p>Linkedin</p></strong><a href="https://github.com/MatheusGomes444?tab=repositories" title="Github" target="_blank">
+            <img src="img/linkedin.svg" width="30" height="32" fill="#fff" alt="">
+        </a>
+       
+    </div>
+    </footer>
+</main>
+
+<div class="wrapper">
+    <!-- Tela de Login -->
+    <div class="caixa-box login">
+        <h2>Login</h2>
+        <span class="icon-close" onclick="toggleModal()">
+            <ion-icon name="close"></ion-icon>
+        </span> 
+        <form id="loginForm" onsubmit="handleLogin(event)">
+            <div class="input-box">
+                <span class="icon"><ion-icon name="mail"></ion-icon></span>
+                <input type="email" id="loginEmail" required>
+                <label>Email</label>
+            </div>
+            <div class="input-box">
+                <span class="icon"><ion-icon name="lock-closed"></ion-icon></span>
+                <input type="password" id="loginPassword" required>
+                <label>Password</label>
+            </div>
+            <div class="remember-forgot">
+                <label><input type="checkbox" id="rememberMe"> Lembre-me</label>
+                <a href="#">Esqueceu a Senha?</a>
+            </div>
+            <button type="submit" class="btn">Login</button>
+            <div class="login-registro">
+                <p>Não tem uma conta? <a href="#" class="registro-link" onclick="toggleModal()">Registro</a></p>
+            </div>
+        </form>
+    </div>
+
+    <!-- Tela de Registro -->
+    <div class="caixa-box registro">
+        <h2>Registro</h2>
+        <span class="icon-close" onclick="toggleModal()">
+            <ion-icon name="close"></ion-icon>
+        </span> 
+        <form id="registerForm" onsubmit="handleRegister(event)">
+            <div class="input-box">
+                <span class="icon"><ion-icon name="person"></ion-icon></span>
+                <input type="text" id="registerUsername" required>
+                <label>Username</label>
+            </div>
+            <div class="input-box">
+                <span class="icon"><ion-icon name="mail"></ion-icon></span>
+                <input type="email" id="registerEmail" required>
+                <label>Email</label>
+            </div>
+            <div class="input-box">
+                <span class="icon"><ion-icon name="lock-closed"></ion-icon></span>
+                <input type="password" id="registerPassword" required>
+                <label>Password</label>
+            </div>
+            <div class="remember-forgot">
+                <label><input type="checkbox" id="termsAgreement"> Concorda com os Termos e Condições</label>
+            </div>
+            <button type="submit" class="btn">Registrar</button>
+            <div class="login-registro">
+                <p>Já tem uma conta? <a href="#" class="login-link" onclick="toggleModal()">Login</a></p>
+            </div>
+        </form>
+    </div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/ionicons@5.5.0/dist/ionicons.js"></script>
+
+
+
+
+
+</body>
+</html>
+
+<script src="https://unpkg.com/ionicons@5.5.2/dist/ionicons.js"></script>
+<script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+<script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
+<script src="js/script.js"></script>
+<script>
+   

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Oasis API.props" />
+</Project>
